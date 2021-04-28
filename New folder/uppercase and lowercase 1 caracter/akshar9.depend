@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610039261 source:a:\c++programs\akshar9\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610039261 source:a:\c++programs\aksharbisht9\main.c
+	<stdio.h>
+	<stdlib.h>
+
